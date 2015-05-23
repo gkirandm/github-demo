@@ -1,1 +1,2 @@
 New file added to the repository
+New line adde to the local file
